@@ -1,0 +1,7 @@
+
+Response: <azure.storage.blob.blockblobservice.BlockBlobService object at 0x125969a00>
+Response: <azure.storage.blob.models.Blob object at 0x12804ef40>
+Response: <azure.storage.blob.blockblobservice.BlockBlobService object at 0x125969a00>
+Response: <azure.storage.blob.models.Blob object at 0x12804e5b0>
+Response: <azure.storage.blob.blockblobservice.BlockBlobService object at 0x125969a00>
+Response: <azure.storage.blob.models.Blob object at 0x12804e5e0>
